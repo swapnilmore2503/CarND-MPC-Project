@@ -13,9 +13,6 @@ Using Model Predictive Control (MPC), this project involves writing a C++ progra
 * Setting timestep length and duration
 * Testing/tuning of above implementations on Udacity simulator
 
-### Results
-See video of the results from my implementation [here](MPC_vid.mov). The car is able to approach speeds of nearly 100 mph, with only a few hitches in its planned route (which it self-corrects for in the following timestep).
-
 ## Discussion/Reflection
 ### The Model
 My MPC model starts out by taking in certain information from the simulator: 
